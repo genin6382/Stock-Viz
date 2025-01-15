@@ -39,7 +39,7 @@ StockViz is a comprehensive stock market visualization tool designed to process 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/StockViz.git
+   git clone https://github.com/genin6382/StockViz.git
    cd StockViz
    ```
 
