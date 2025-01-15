@@ -6,7 +6,7 @@ StockViz is a comprehensive stock market visualization tool designed to process 
 
 ## Features
 
-- **Real-Time Stock Data Processing:** Uses AWS Lambda to fetch and process stock data via APIs.
+- **Real-Time Stock Data Processing:** Uses AWS Lambda to fetch and process stock data via APIs.[APPLE,GOOGLE,MICROSOFT]
 - **Data Visualization:** Displays stock data insights through Amazon QuickSight with various visualization options, including line charts, bar charts, and more.
 - **Scalable Infrastructure:** Leverages AWS services like S3, SQS, and Lambda for a serverless and scalable architecture.
 - **Error Handling:** Includes dead-letter queues for failed messages to ensure reliability.
