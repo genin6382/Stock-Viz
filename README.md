@@ -16,7 +16,7 @@ StockViz is a comprehensive stock market visualization tool designed to process 
 
 ## Architecture Overview
 
-
+![Architecture Diagram](architecture.png)
 
 1. **Data Fetching:**
    - AWS Lambda function (`lambda-api-reader`) retrieves stock data from an external API.
@@ -79,6 +79,12 @@ StockViz is a comprehensive stock market visualization tool designed to process 
    - Upload the ZIP file to AWS Lambda as a new layer.
 
 ---
+## Data Visualization using Quicksight
+![QuickSight Visualization](quicksight.png)
+
+---
+## Terraform Deployment Output
+![Terraform Output](output.png)
 
 ## Prerequisites
 
