@@ -80,7 +80,7 @@ StockViz is a comprehensive stock market visualization tool designed to process 
 
 ---
 ## Data Visualization using Quicksight
-![QuickSight Visualization](quicksight.png)
+![QuickSight Visualization](quicksight-visual.png)
 
 ---
 ## Terraform Deployment Output
